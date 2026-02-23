@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'Gamer', 'Trai Dep Binh Tan'],
+    strings: ['Học Giỏi', 'Tinh Tế', 'Đẹp Trai'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
